@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (userInput !== "") {
       // Show an alert with formatted content
-      alert(`Daniel Krieglstein : ${userInput}`);
+      alert(`You Write : ${userInput}`);
 
       // Update text below button
       displayText.textContent = userInput;
@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (userInput !== "") {
       // Show an alert with formatted content
-      alert(`Daniel Krieglstein : ${userInput}`);
+      alert(`You Write : ${userInput}`);
 
       // Update text below button
       displayText.textContent = userInput;
